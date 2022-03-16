@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Covid-Tracker-Worldmap/static/css/main.a98cd6be.css",
+    "main.js": "/React-Covid-Tracker-Worldmap/static/js/main.27e773a2.js",
+    "index.html": "/React-Covid-Tracker-Worldmap/index.html",
+    "main.a98cd6be.css.map": "/React-Covid-Tracker-Worldmap/static/css/main.a98cd6be.css.map",
+    "main.27e773a2.js.map": "/React-Covid-Tracker-Worldmap/static/js/main.27e773a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98cd6be.css",
+    "static/js/main.27e773a2.js"
+  ]
+}
