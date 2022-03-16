@@ -1,5 +1,7 @@
 # React COVID Tracker
 
+# React COVID Tracker site is live at :- (https://tathagata1805.github.io/React-Covid-Tracker-Worldmap/)
+
 ## Available Scripts
 
 In the project directory, you can run:
